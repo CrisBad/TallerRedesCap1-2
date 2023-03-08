@@ -7,6 +7,14 @@
 Las redes tienen un efecto significativo en nuestra vida cotidiana ya que permite conectarnos y comunicarnos con personas de todo el mundo, acceder a información y recursos en línea, para hacer nuestras vidas más convenientes y eficientes.  
 
 2. Listar las actividades cotidianas que realiza usted utilizando internet
+
+- Consumir contenido audiovisual como: videos, streaming.
+- Jugar videojuegos
+- Chatear en whatsapp
+- Descargar archivos en línea
+- Usar emails
+- Revisar redes sociales
+
 3. Dar ejemplos de herramientas de comunicación que utiliza o ha utilizado
 4. Describir los factores que afectan la calidad de las comunicaciones.
 5. Identificar los componentes clave de cualquier red de datos y describir su funcionamiento.
