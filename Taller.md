@@ -16,6 +16,17 @@ Las redes tienen un efecto significativo en nuestra vida cotidiana ya que permit
 - Revisar redes sociales
 
 3. Dar ejemplos de herramientas de comunicación que utiliza o ha utilizado
+
+-Facebook
+-TikTok
+-Discord
+-Skype
+-Instagram
+-Whatsapp
+-Telegram
+-Gmail
+-Zoom
+
 4. Describir los factores que afectan la calidad de las comunicaciones.
 5. Identificar los componentes clave de cualquier red de datos y describir su funcionamiento.
 6. Responda brevemente, ¿Qué son los datos? ¿Qué es una red de datos? ¿Qué es una red convergente?
