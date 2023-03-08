@@ -77,6 +77,18 @@ Las redes tienen un efecto significativo en nuestra vida cotidiana ya que permit
 
 9. Describa que es la calidad del servicio y que se necesita para mantener una buena calidad de servicio para las aplicaciones que lo requieren.
 
+La calidad de servicio (QoS) se refiere a la capacidad de una red para proporcionar un rendimiento predecible y priorizar el tráfico para las aplicaciones que lo requieran. En otras palabras, la QoS es la capacidad de la red para garantizar que las aplicaciones críticas tengan el ancho de banda y la latencia que necesitan para funcionar de forma óptima.
+
+Se requieren varias medidas para mantener una buena calidad de servicio para las aplicaciones que lo requieren, entre ellas:
+
+- Priorización del tráfico: Las aplicaciones críticas deben tener prioridad sobre el tráfico de datos menos importante. Esto puede lograrse asignando prioridad a los paquetes de datos y asignando un ancho de banda mínimo garantizado a las aplicaciones críticas.
+
+- Control de la congestión: Deben tomarse medidas para evitar la congestión de la red, como el uso de técnicas de control de la congestión y la supervisión continua del uso de la red.
+
+- Ancho de banda adecuado: es necesario garantizar que haya suficiente ancho de banda disponible para las aplicaciones críticas, lo que puede lograrse actualizando los enlaces de red e implementando técnicas de compresión de datos.
+
+- Supervisión y medición: Es fundamental supervisar y medir el rendimiento de la red para identificar y corregir cualquier problema de calidad de servicio.
+
 10. ¿Por qué importa la calidad del servicio en una red de datos?
 
 ----------------------------------------------------------------------------------
