@@ -81,13 +81,13 @@
 
     Se requieren varias medidas para mantener una buena calidad de servicio para las aplicaciones que lo requieren, entre ellas:
 
-- Priorización del tráfico: Las aplicaciones críticas deben tener prioridad sobre el tráfico de datos menos importante. Esto puede lograrse asignando prioridad a los paquetes de datos y asignando un ancho de banda mínimo garantizado a las aplicaciones críticas.
+- ***Priorización del tráfico:*** Las aplicaciones críticas deben tener prioridad sobre el tráfico de datos menos importante. Esto puede lograrse asignando prioridad a los paquetes de datos y asignando un ancho de banda mínimo garantizado a las aplicaciones críticas.
 
-- Control de la congestión: Deben tomarse medidas para evitar la congestión de la red, como el uso de técnicas de control de la congestión y la supervisión continua del uso de la red.
+- ***Control de la congestión:*** Deben tomarse medidas para evitar la congestión de la red, como el uso de técnicas de control de la congestión y la supervisión continua del uso de la red.
 
-- Ancho de banda adecuado: es necesario garantizar que haya suficiente ancho de banda disponible para las aplicaciones críticas, lo que puede lograrse actualizando los enlaces de red e implementando técnicas de compresión de datos.
+- ***Ancho de banda adecuado:*** es necesario garantizar que haya suficiente ancho de banda disponible para las aplicaciones críticas, lo que puede lograrse actualizando los enlaces de red e implementando técnicas de compresión de datos.
 
-- Supervisión y medición: Es fundamental supervisar y medir el rendimiento de la red para identificar y corregir cualquier problema de calidad de servicio.
+- ***Supervisión y medición:*** Es fundamental supervisar y medir el rendimiento de la red para identificar y corregir cualquier problema de calidad de servicio.
 
 10. ¿Por qué importa la calidad del servicio en una red de datos?
 
@@ -99,25 +99,25 @@
 
 1. Describir la estructura de una red, incluidos los dispositivos, medios y servicios necesarios para lograr comunicaciones exitosas.
 
-La estructura de una red se compone de los siguientes elementos:
+    La estructura de una red se compone de los siguientes elementos:
 
-- Dispositivos: Son los componentes físicos y lógicos que se utilizan para conectar los dispositivos y permitir la comunicación en la red. Ejemplos de dispositivos de red incluyen routers, switches, firewalls, servidores y computadoras.
+- ***Dispositivos:*** Son los componentes físicos y lógicos que se utilizan para conectar los dispositivos y permitir la comunicación en la red. Ejemplos de dispositivos de red incluyen routers, switches, firewalls, servidores y computadoras.
 
-- Medios: Son los medios físicos a través de los cuales se transmiten los datos entre los dispositivos de red. Ejemplos de medios de red incluyen cables de cobre, fibra óptica y ondas.
+- ***Medios:*** Son los medios físicos a través de los cuales se transmiten los datos entre los dispositivos de red. Ejemplos de medios de red incluyen cables de cobre, fibra óptica y ondas.
 
-- Servicios de red: Son las funciones que permiten que los dispositivos se comuniquen entre sí y proporcionan servicios como el correo electrónico, la transferencia de archivos y el acceso a Internet. Ejemplos de servicios de red incluyen DNS(Sistema de nombres de dominio) y FTP (Protocolo de transferencia de archivos).
+- ***Servicios de red:*** Son las funciones que permiten que los dispositivos se comuniquen entre sí y proporcionan servicios como el correo electrónico, la transferencia de archivos y el acceso a Internet. Ejemplos de servicios de red incluyen DNS(Sistema de nombres de dominio) y FTP (Protocolo de transferencia de archivos).
 
-Para lograr comunicaciones exitosas en una red, se necesitan varios elementos y tecnologías, incluyendo:
+    Para lograr comunicaciones exitosas en una red, se necesitan varios elementos y tecnologías, incluyendo:
 
-- Protocolos: Son los conjuntos de reglas que rigen la comunicación entre dispositivos en la red, como el protocolo TCP/IP y el UDP.
+- ***Protocolos:*** Son los conjuntos de reglas que rigen la comunicación entre dispositivos en la red, como el protocolo TCP/IP y el UDP.
 
-- Modelos: Son los marcos conceptuales que describen cómo se comunica la información a través de la red. Ejemplos de modelos de red incluyen el modelo OSI y el modelo TCP/IP.
+- ***Modelos:*** Son los marcos conceptuales que describen cómo se comunica la información a través de la red. Ejemplos de modelos de red incluyen el modelo OSI y el modelo TCP/IP.
 
-- Direcciones: Son los identificadores únicos que se utilizan para identificar los dispositivos y permitir la comunicación en la red. Ejemplo: las direcciones IP.
-
+- ***Direcciones:*** Son los identificadores únicos que se utilizan para identificar los dispositivos y permitir la comunicación en la red. Ejemplo: las direcciones IP.
 
 2. Comparar y contrastar los siguientes términos: RED, LAN, WAN, INTERNETWORK E INTERNET.
 
+    Una red se refiere a un conjunto de dispositivos interconectados que se utilizan para transmitir y recibir datos, la principal diferencia entre estos términos radica en el tamaño y alcance de la red. Una LAN es una red local de tamaño limitado, mientras que una WAN es una red de gran alcance que se utiliza para conectar dispositivos a larga distancia. Un internetwork es la conexión de varias redes de datos, mientras que la Internet es una red global que conecta millones de dispositivos en todo el mundo.
 
 3. ¿Cuál es la diferencia entre INTERNETWORK E INTERNET?
 
