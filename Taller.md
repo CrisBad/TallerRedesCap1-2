@@ -131,6 +131,7 @@
 
 5. ¿Por qué se dice que un protocolo es independiente de la tecnología?
 
+    Porque los protocolos son un estándar, es decir las tecnologías deben adaptarse a dichos estándares.
 
 6. Consultar y explicar brevemente qué es una Unidad de Datos del Protocolo (PDU).
 
