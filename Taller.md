@@ -28,6 +28,19 @@ Las redes tienen un efecto significativo en nuestra vida cotidiana ya que permit
 - Zoom
 
 4. Describir los factores que afectan la calidad de las comunicaciones.
+
+- Internos:
+    - Tamaño del mensaje
+    - Complejidad del mensaje
+    - Importancia del mensaje
+
+- Externos: 
+    - Calidad de la ruta entre el emisor y receptor
+    - Cantidad de veces que el mensaje tiene que cambiar de forma
+    - Cantidad de veces que el mensaje tiene que ser redireccionado en la red
+    - Cantidad de mensajes adicionales que se transmiten simultáneamente en la red
+    - Cantidad de tiempo asignado para una comunicación exitosa
+
 5. Identificar los componentes clave de cualquier red de datos y describir su funcionamiento.
 6. Responda brevemente, ¿Qué son los datos? ¿Qué es una red de datos? ¿Qué es una red convergente?
 7. Describir las características de las arquitecturas de red: tolerante a fallas, escalabilidad, calidad del servicio y seguridad. Mostrar sus respectivos ejemplos.
