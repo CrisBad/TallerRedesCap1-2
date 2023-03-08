@@ -42,6 +42,15 @@ Las redes tienen un efecto significativo en nuestra vida cotidiana ya que permit
     - Cantidad de tiempo asignado para una comunicación exitosa
 
 5. Identificar los componentes clave de cualquier red de datos y describir su funcionamiento.
+
+Reglas: Son los protocolos que rigen la forma en la que se envían, direccionan e interpretan los mensajes.
+
+Medio: Es la red por la cual se envía un mensaje, puede ser una red local inalámbrica o con cables, o una red pública inalámbrica.
+
+Dispositivos: Equipos hardware o software que cumplen la funciones de emisor, receptor o intermediario en la red.
+
+Mensaje: información que se convierte en bits para enviarse a través del medio de la red hasta que llegue a un dispositivo de destino.
+
 6. Responda brevemente, ¿Qué son los datos? ¿Qué es una red de datos? ¿Qué es una red convergente?
 7. Describir las características de las arquitecturas de red: tolerante a fallas, escalabilidad, calidad del servicio y seguridad. Mostrar sus respectivos ejemplos.
 8. Investigar qué son las redes orientadas y no orientadas a la conexión.
