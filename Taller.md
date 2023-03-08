@@ -17,15 +17,15 @@ Las redes tienen un efecto significativo en nuestra vida cotidiana ya que permit
 
 3. Dar ejemplos de herramientas de comunicación que utiliza o ha utilizado
 
--Facebook
--TikTok
--Discord
--Skype
--Instagram
--Whatsapp
--Telegram
--Gmail
--Zoom
+- Facebook
+- TikTok
+- Discord
+- Skype
+- Instagram
+- Whatsapp
+- Telegram
+- Gmail
+- Zoom
 
 4. Describir los factores que afectan la calidad de las comunicaciones.
 5. Identificar los componentes clave de cualquier red de datos y describir su funcionamiento.
