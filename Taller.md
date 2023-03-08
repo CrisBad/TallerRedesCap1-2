@@ -2,7 +2,11 @@
 
 ## Preguntas de lectura: Capítulo 1
 
-1. Describir el efecto que tienen las redes en nuestra vida cotidiana.
+1. Describir el efecto que tienen las redes en nuestra vida cotidiana.  
+En el mundo moderno, las redes informáticas están presentes en muchas facetas de nuestras vidas, desde la banca en línea y el comercio electrónico hasta la comunicación personal y las redes sociales. Para muchas empresas y organizaciones, las redes informáticas también son esenciales porque permiten la comunicación, la colaboración y la transmisión de información a través de numerosas ubicaciones geográficas.  
+Además, la pandemia de COVID-19 ha reducido la importancia de las redes informáticas para el trabajo a distancia y la educación en línea, lo que ha provocado un aumento de la demanda de soluciones de redes y tecnologías de la información.  
+En conclusión, las redes informáticas son esenciales para la vida cotidiana y han cambiado nuestra forma de comunicarnos.  
+
 2. Listar las actividades cotidianas que realiza usted utilizando internet
 3. Dar ejemplos de herramientas de comunicación que utiliza o ha utilizado
 4. Describir los factores que afectan la calidad de las comunicaciones.
