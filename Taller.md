@@ -4,7 +4,7 @@
 
 1. Describir el efecto que tienen las redes en nuestra vida cotidiana.  
 
-    Las redes tienen un efecto significativo en nuestra vida cotidiana ya que permite conectarnos y comunicarnos con personas de todo el mundo, acceder a información y recursos en línea, para hacer nuestras vidas más convenientes y eficientes.  
+Las redes tienen un efecto significativo en nuestra vida cotidiana ya que permite conectarnos y comunicarnos con personas de todo el mundo, acceder a información y recursos en línea, para hacer nuestras vidas más convenientes y eficientes.  
 
 2. Listar las actividades cotidianas que realiza usted utilizando internet
 
@@ -60,6 +60,14 @@
 - Red convergente: es una red que transporta diferentes tipos de tráfico de datos, como voz, video y datos, a través de una infraestructura común. Esto se logra mediante el uso de tecnologías como IP (Protocolo de Internet) y VoIP (Voz sobre IP), que permiten que todos los tipos de tráfico se transmitan a través de la misma red.
 
 7. Describir las características de las arquitecturas de red: tolerante a fallas, escalabilidad, calidad del servicio y seguridad. Mostrar sus respectivos ejemplos.
+
+- Tolerancia a fallas: se refiere  a la capacidad de limitar el impacto de una falla del software o hardware, logrando recuperarse rápidamente cuando se produce dicha falla. Para lograrlo, se dependen de enlaces o rutas redundantes entre el origen y el destino del mensaje.
+ 
+- Escalabilidad: se refiere a la capacidad de una red de expandirse rápidamente para recibir usuarios y aplicaciones nuevos sin afectar el rendimiento del servicio enviado a los usuarios actuales.
+
+- Calidad del servicio: se refiere a la capacidad que administra el router de garantizar que las prioridades coincidan con el tipo de comunicación y su importancia para la organización.
+
+Seguridad: se encarga de proteger la red de accesos no autorizados. Los administradores pueden proteger la red ya sea con seguridad a nivel de hardware o software.
 
 8. Investigar qué son las redes orientadas y no orientadas a la conexión.
 
