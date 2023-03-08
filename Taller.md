@@ -159,3 +159,21 @@
     La principal diferencia entre un modelo de protocolo y un modelo de referencia es que un modelo de protocolo se centra en los detalles técnicos de cómo se comunican los dispositivos en una red utilizando un protocolo específico, mientras que un modelo de referencia se centra en la organización de las funciones y servicios en diferentes capas lógicas de una red para dividir su complejidad en partes más manejables.
 
 9. Describir la función de cada capa en los dos modelos de red: TCP/IP y OSI.
+
+    ***Modelo TCP/IP***:
+
+- ***Capa de acceso a la red***: Se encarga de la transmisión de datos a través de la capa física y de los protocolos de acceso a la red, como ethernet y wi-fi.
+- ***Capa de Internet***: Se encarga de enrutar los paquetes de datos a través de la red utilizando direcciones IP y protocolos de enrutamiento, como el Protocolo de Internet (IP) y el Protocolo de Control de Admisión al Grupo de Internet (IGMP).
+- ***Capa de transporte***: Proporciona servicios de transporte confiables y sin conexión entre los extremos de la comunicación, mediante los protocolos TCP y UDP.
+- ***Capa de aplicación***: Proporciona servicios de red a las aplicaciones del usuario, como el correo electrónico, la transferencia de archivos y la navegación web, utilizando protocolos de aplicación como HTTP, FTP y SMTP.
+
+    ***Modelo OSI***:
+
+- ***Capa física***: Define las especificaciones físicas de los medios de transmisión de la red, como los cables y las tarjetas de interfaz de red.
+- ***Capa de enlace de datos***: Se encarga de la transmisión de datos confiable y sin errores entre dispositivos adyacentes en la red, a través de la detección y corrección de errores y el control de flujo.
+- ***Capa de red***: Se encarga de enrutar los paquetes de datos de origen a destino a través de la red, utilizando protocolos de enrutamiento y de direccionamiento IP.
+- ***Capa de transporte***: Proporciona servicios de transporte confiables y sin conexión entre los extremos de la comunicación, mediante el control de flujo, el control de errores y la segmentación de los datos en paquetes más pequeños.
+- ***Capa de sesión***: Se encarga de establecer, administrar y terminar sesiones entre aplicaciones de red en diferentes dispositivos, y proporciona servicios de sincronización y recuperación de errores.
+- ***Capa de presentación***: Se encarga de la representación de los datos para su intercambio entre aplicaciones, mediante la codificación, decodificación y compresión de datos.
+- ***Capa de aplicación***: Proporciona servicios de red a las aplicaciones del usuario, como el correo electrónico, la transferencia de archivos y la navegación web.
+
