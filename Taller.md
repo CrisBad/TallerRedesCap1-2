@@ -67,7 +67,7 @@ Las redes tienen un efecto significativo en nuestra vida cotidiana ya que permit
 
 - Calidad del servicio: se refiere a la capacidad que administra el router de garantizar que las prioridades coincidan con el tipo de comunicación y su importancia para la organización.
 
-Seguridad: se encarga de proteger la red de accesos no autorizados. Los administradores pueden proteger la red ya sea con seguridad a nivel de hardware o software.
+- Seguridad: se encarga de proteger la red de accesos no autorizados. Los administradores pueden proteger la red ya sea con seguridad a nivel de hardware o software.
 
 8. Investigar qué son las redes orientadas y no orientadas a la conexión.
 
