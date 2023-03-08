@@ -4,7 +4,7 @@
 
 1. Describir el efecto que tienen las redes en nuestra vida cotidiana.  
 
-Las redes tienen un efecto significativo en nuestra vida cotidiana ya que permite conectarnos y comunicarnos con personas de todo el mundo, acceder a información y recursos en línea, para hacer nuestras vidas más convenientes y eficientes.  
+    Las redes tienen un efecto significativo en nuestra vida cotidiana ya que permite conectarnos y comunicarnos con personas de todo el mundo, acceder a información y recursos en línea, para hacer nuestras vidas más convenientes y eficientes.  
 
 2. Listar las actividades cotidianas que realiza usted utilizando internet
 
@@ -43,18 +43,28 @@ Las redes tienen un efecto significativo en nuestra vida cotidiana ya que permit
 
 5. Identificar los componentes clave de cualquier red de datos y describir su funcionamiento.
 
-Reglas: Son los protocolos que rigen la forma en la que se envían, direccionan e interpretan los mensajes.
+- Reglas: Son los protocolos que rigen la forma en la que se envían, direccionan e interpretan los mensajes.
 
-Medio: Es la red por la cual se envía un mensaje, puede ser una red local inalámbrica o con cables, o una red pública inalámbrica.
+- Medio: Es la red por la cual se envía un mensaje, puede ser una red local inalámbrica o con cables, o una red pública inalámbrica.
 
-Dispositivos: Equipos hardware o software que cumplen la funciones de emisor, receptor o intermediario en la red.
+- Dispositivos: Equipos hardware o software que cumplen la funciones de emisor, receptor o intermediario en la red.
 
-Mensaje: información que se convierte en bits para enviarse a través del medio de la red hasta que llegue a un dispositivo de destino.
+- Mensaje: información que se convierte en bits para enviarse a través del medio de la red hasta que llegue a un dispositivo de destino.
 
 6. Responda brevemente, ¿Qué son los datos? ¿Qué es una red de datos? ¿Qué es una red convergente?
+
+- Datos: son información digital que se almacena y se transmite a través de dispositivos electrónicos, como computadoras, teléfonos inteligentes y tabletas.
+
+- Red de datos: es una colección de dispositivos interconectados que se utilizan para transmitir y recibir datos. Los dispositivos pueden incluir computadoras, servidores, impresoras, enrutadores, switches y otros dispositivos de red.
+
+- Red convergente: es una red que transporta diferentes tipos de tráfico de datos, como voz, video y datos, a través de una infraestructura común. Esto se logra mediante el uso de tecnologías como IP (Protocolo de Internet) y VoIP (Voz sobre IP), que permiten que todos los tipos de tráfico se transmitan a través de la misma red.
+
 7. Describir las características de las arquitecturas de red: tolerante a fallas, escalabilidad, calidad del servicio y seguridad. Mostrar sus respectivos ejemplos.
+
 8. Investigar qué son las redes orientadas y no orientadas a la conexión.
+
 9. Describa que es la calidad del servicio y que se necesita para mantener una buena calidad de servicio para las aplicaciones que lo requieren.
+
 10. ¿Por qué importa la calidad del servicio en una red de datos?
 
 ----------------------------------------------------------------------------------
