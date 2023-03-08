@@ -127,6 +127,7 @@
 
 4. Describir la diferencia entre Tarjeta de interfaz de red (NIC), puerto físico e interfaz de red.
 
+    La NIC se refiere al componente de hardware que se utiliza para conectar un dispositivo a una red, el puerto físico es el punto de conexión físico que se utiliza para conectar la NIC a la red, y la interfaz de red es el punto de conexión lógico que se utiliza para administrar la conexión a la red.
 
 5. ¿Por qué se dice que un protocolo es independiente de la tecnología?
 
