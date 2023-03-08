@@ -156,5 +156,6 @@
 
 8. Describir la diferencia entre los modelos de protocolo y modelos de referencia.
 
+    La principal diferencia entre un modelo de protocolo y un modelo de referencia es que un modelo de protocolo se centra en los detalles técnicos de cómo se comunican los dispositivos en una red utilizando un protocolo específico, mientras que un modelo de referencia se centra en la organización de las funciones y servicios en diferentes capas lógicas de una red para dividir su complejidad en partes más manejables.
 
 9. Describir la función de cada capa en los dos modelos de red: TCP/IP y OSI.
