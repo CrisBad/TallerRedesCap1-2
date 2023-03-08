@@ -139,19 +139,19 @@
 
 7. Explicar la función de los protocolos en las comunicaciones de redes y para qué es el proceso de encapsulamiento de los datos (ilustrar el nombre que adopta cada PDU en cada capa del modelo TCP/IP mediante un dibujo).
 
-    Los protocolos son conjuntos de reglas y estándares que rigen la comunicación entre dispositivos en una red. Cada protocolo define cómo se realizan las comunicaciones, qué información se intercambia y cómo se resuelven los problemas de comunicación. Los protocolos también permiten que los dispositivos de diferentes fabricantes se comuniquen entre sí.
+    Los ***protocolos*** son conjuntos de reglas y estándares que rigen la comunicación entre dispositivos en una red. Cada protocolo define cómo se realizan las comunicaciones, qué información se intercambia y cómo se resuelven los problemas de comunicación. Los protocolos también permiten que los dispositivos de diferentes fabricantes se comuniquen entre sí.
 
-    El proceso de encapsulamiento de los datos es el proceso de agregar una cabecera y un pie de página a los datos de la capa superior antes de enviarlos a la capa inferior. La cabecera y el pie de página contienen información importante que se utiliza para la entrega y la gestión de los datos en la red. Este proceso continúa en cada capa hasta que los datos se transmiten por la red.
+    El proceso de ***encapsulamiento*** de los datos es el proceso de agregar una cabecera y un pie de página a los datos de la capa superior antes de enviarlos a la capa inferior. La cabecera y el pie de página contienen información importante que se utiliza para la entrega y la gestión de los datos en la red. Este proceso continúa en cada capa hasta que los datos se transmiten por la red.
 
-En el modelo TCP/IP, cada capa tiene su propio protocolo y PDU que se utiliza para realizar las comunicaciones. Estos son los siguientes:
+    En el modelo TCP/IP, cada capa tiene su propio protocolo y PDU que se utiliza para realizar las comunicaciones. Estos son los siguientes:
 
-- Capa de aplicación: Esta capa es donde las aplicaciones y servicios interactúan con la red. El protocolo de la capa de aplicación es el protocolo de aplicación específico, como HTTP o SMTP.
+- ***Capa de aplicación***: Esta capa es donde las aplicaciones y servicios interactúan con la red. El protocolo de la capa de aplicación es el protocolo de aplicación específico, como HTTP o SMTP.
 
-- Capa de transporte: Esta capa es responsable de la entrega confiable de los datos de la capa de aplicación a través de la red. El protocolo de la capa de transporte es el o el UDP.
+- ***Capa de transporte***: Esta capa es responsable de la entrega confiable de los datos de la capa de aplicación a través de la red. El protocolo de la capa de transporte es el o el UDP.
 
-- Capa de Internet: Esta capa es responsable de enrutar los datos a través de la red y asegurar que lleguen al destino correcto. El protocolo de la capa de Internet es el protocolo IP.
+- ***Capa de Internet***: Esta capa es responsable de enrutar los datos a través de la red y asegurar que lleguen al destino correcto. El protocolo de la capa de Internet es el protocolo IP.
 
-- Capa de acceso a la red: Esta capa es responsable de enviar los datos a través del medio físico de la red. El protocolo de la capa de acceso a la red varía según el medio físico utilizado, como Ethernet o Wi-Fi.
+- ***Capa de acceso a la red***: Esta capa es responsable de enviar los datos a través del medio físico de la red. El protocolo de la capa de acceso a la red varía según el medio físico utilizado, como Ethernet o Wi-Fi.
 
 
 8. Describir la diferencia entre los modelos de protocolo y modelos de referencia.
