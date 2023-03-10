@@ -154,6 +154,8 @@
 - ***Capa de acceso a la red***: Esta capa es responsable de enviar los datos a través del medio físico de la red. El protocolo de la capa de acceso a la red varía según el medio físico utilizado, como Ethernet o Wi-Fi.
 
 
+![Image text](https://github.com/CrisBad/TallerRedesCap1-2/blob/main/DibujoProtocolo.jpeg)
+
 8. Describir la diferencia entre los modelos de protocolo y modelos de referencia.
 
     La principal diferencia entre un modelo de protocolo y un modelo de referencia es que un modelo de protocolo se centra en los detalles técnicos de cómo se comunican los dispositivos en una red utilizando un protocolo específico, mientras que un modelo de referencia se centra en la organización de las funciones y servicios en diferentes capas lógicas de una red para dividir su complejidad en partes más manejables.
