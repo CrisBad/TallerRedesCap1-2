@@ -152,9 +152,9 @@
 - ***Capa de Internet***: Esta capa es responsable de enrutar los datos a través de la red y asegurar que lleguen al destino correcto. El protocolo de la capa de Internet es el protocolo IP.
 
 - ***Capa de acceso a la red***: Esta capa es responsable de enviar los datos a través del medio físico de la red. El protocolo de la capa de acceso a la red varía según el medio físico utilizado, como Ethernet o Wi-Fi.
-
-<p align="center">
 ![Image text](https://github.com/CrisBad/TallerRedesCap1-2/blob/main/DibujoProtocolo.jpeg)
+<p align="center">
+    <img src="[ruta/de/la/imagen.jpg](https://github.com/CrisBad/TallerRedesCap1-2/blob/main/DibujoProtocolo.jpeg)" alt="Dibujo del Protocolo">
 </p>
     
 8. Describir la diferencia entre los modelos de protocolo y modelos de referencia.
