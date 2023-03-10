@@ -61,13 +61,13 @@
 
 7. Describir las características de las arquitecturas de red: tolerante a fallas, escalabilidad, calidad del servicio y seguridad. Mostrar sus respectivos ejemplos.
 
-- ***Tolerancia a fallas:*** se refiere  a la capacidad de limitar el impacto de una falla del software o hardware, logrando recuperarse rápidamente cuando se produce dicha falla. Para lograrlo, se dependen de enlaces o rutas redundantes entre el origen y el destino del mensaje.
+- ***Tolerancia a fallas:*** se refiere  a la capacidad de limitar el impacto de una falla del software o hardware, logrando recuperarse rápidamente cuando se produce dicha falla. Para lograrlo, se dependen de enlaces o rutas redundantes entre el origen y el destino del mensaje. Un ejemplo es la configuración de un protocolo de enrutamiento dinámico, como OSPF o EIGRP, que proporciona enlaces redundantes y rutas alternativas para evitar interrupciones en la comunicación en caso de que falle un enlace o nodo de red.
  
-- ***Escalabilidad:*** se refiere a la capacidad de una red de expandirse rápidamente para recibir usuarios y aplicaciones nuevos sin afectar el rendimiento del servicio enviado a los usuarios actuales.
+- ***Escalabilidad:*** se refiere a la capacidad de una red de expandirse rápidamente para recibir usuarios y aplicaciones nuevos sin afectar el rendimiento del servicio enviado a los usuarios actuales. Un es la implementación de una red WAN mediante tecnologías como MPLS o VPN, que permiten a la organización conectar de forma segura y eficiente sus sedes y sucursales a la red principal sin afectar el rendimiento de la red existente.
 
-- ***Calidad del servicio:*** se refiere a la capacidad que administra el router de garantizar que las prioridades coincidan con el tipo de comunicación y su importancia para la organización.
+- ***Calidad del servicio:*** se refiere a la capacidad que administra el router de garantizar que las prioridades coincidan con el tipo de comunicación y su importancia para la organización. Un es la configuración de un esquema de priorización de tráfico, como el DiffServ, que permite a los administradores de red asignar diferentes niveles de prioridad a diferentes tipos de tráfico, como voz, video o datos, para garantizar que el tráfico crítico se entregue sin retrasos o pérdida de paquetes.
 
-- ***Seguridad:*** se encarga de proteger la red de accesos no autorizados. Los administradores pueden proteger la red ya sea con seguridad a nivel de hardware o software.
+- ***Seguridad:*** se encarga de proteger la red de accesos no autorizados. Los administradores pueden proteger la red ya sea con seguridad a nivel de hardware o software. Un ejemplo es la implementación de medidas de seguridad como firewalls, autenticación y autorización de usuarios, encriptación de datos y políticas de seguridad de red, que protegen la red de accesos no autorizados y previenen ataques cibernéticos y filtraciones de datos sensibles.
 
 8. Investigar qué son las redes orientadas y no orientadas a la conexión.
 
